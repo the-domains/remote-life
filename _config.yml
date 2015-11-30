@@ -2,6 +2,7 @@ name: Remote Life
 favicon: null
 layout_spectrum: 0.95775
 typography_spectrum: 0.70877
+title: Remote Life
 cta:
   domain: null
   bucket: null
