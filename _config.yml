@@ -1,7 +1,7 @@
 name: Remote Life
 favicon: null
-layout_spectrum: 0.7691350060049444
-typography_spectrum: 0.6233590147458017
+layout_spectrum: 0.95775
+typography_spectrum: 0.70877
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7264757370576262
-  lightness: 0.9774317527189851
-  saturation: 0.5432586427778006
-  rhythmicContrast: 0.9593334814999253
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
